@@ -1,0 +1,98 @@
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\appsettings.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\sistema medico.staticwebassets.runtime.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\sistema medico.staticwebassets.endpoints.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\sistema medico.exe
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\sistema medico.deps.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\sistema medico.runtimeconfig.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\sistema medico.dll
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\bin\Debug\net9.0\sistema medico.pdb
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.AssemblyInfo.cs
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.RazorAssemblyInfo.cache
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.RazorAssemblyInfo.cs
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\scopedcss\bundle\sistema medico.styles.css
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\scopedcss\projectbundle\sistema medico.bundle.scp.css
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\ygr670erjg-b9sayid5wm.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\3ouwjhlr5o-61n19gt1b8.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\6mvp6pyjeo-xtxxf3hu2r.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\r6yy55q89w-bqjiyaj88i.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\udw2ahq364-c2jlpeoesf.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\7y4ghcx2h3-erw9l3u2r3.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\kuvuna1kdi-aexeepp0ev.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\k7r9tj9hlc-d7shbmvgxk.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\7mz572m5wh-ausgxo2sd3.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\knsjo9tzoj-k8d9w2qqmf.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\zc42hyiekj-cosvhxvwiu.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\ils0b7ax6b-ub07r2b239.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\da5i9zajlp-fvhpjtyr6v.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\e5no5r3vzg-b7pk76d08c.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\isq9o6h9ey-fsbi9cje9m.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\k26vhm2xir-rzd6atqjts.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\klj273qtrq-ee0r1s7dh0.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\7vre4u2wf3-dxx9fxp4il.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\m4wsa7dqv7-jd9uben2k1.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\g3ql6mbwou-khv3u5hwcm.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\pccbxl9tje-r4e9w2rdcm.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\apro8e7zn5-lcd1t2u6c8.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\tk08tn4ue1-c2oey78nd0.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\our5q33035-tdbxkamptv.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\ngtdekzvla-j5mq2jizvt.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\ydq6q3hark-06098lyss8.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\maw04jzxn9-nvvlpmu67g.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\vd2uhw4x5f-s35ty4nyc5.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\np4c8q2i7x-pj5nd1wqec.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\xl3n5y0wcr-46ein0sx1k.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\dh0dqmdxc1-v0zj4ognzu.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\cv5lgjdg4t-37tfw0ft22.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\p4gdko5zbo-hrwsygsryq.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\3q5cfe64hd-pk9g2wxc8p.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\jo5r9hpr0w-ft3s53vfgj.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\mddvzbp0kc-6cfz1n2cew.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\g409ue1mh0-6pdc2jztkx.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\v88zgu3jyb-493y06b0oq.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\2sxr4b33tr-iovd86k7lj.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\hoizlvzi4b-vr1egmr9el.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\jdp8vskzeu-kbrnm935zg.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\iyck38ufqd-jj8uyg4cgr.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\4lznkhbgqb-y7v9cxd14o.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\okm5ai29k1-notf2xhcfb.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\u8gg9nytmb-h1s4sie4z3.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\38lkb9l23k-63fj8s7r0e.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\rj0fo7646g-0j3bgjxly4.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\6ysuaqxxo6-47otxtyo56.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\ln3oskk0af-4v8eqarkd7.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\pe3qokocgs-356vix0kms.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\90ej3gmla3-83jwlth58m.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\3pjg76jkps-mrlpezrjn3.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\jlgqhof027-lzl9nlhx6b.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\w4seob5lrl-ag7o75518u.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\nc0fuizyld-x0q3zqp4vz.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\i24gwp2g76-0i3buxo5is.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\6dme9sp09h-o1o13a6vjx.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\684d0umxe0-ttgo8qnofa.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\51spsczun2-2z0ns9nrw6.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\z5bz6a1or4-muycvpuwrr.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\cvey08201v-87fc7y1x7t.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\vyxlydzo5y-mlv21k5csn.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\8cry2x5fqu-m267y84cvd.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\compressed\2mpsr5kpws-m267y84cvd.gz
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets\msbuild.sistema medico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets\msbuild.sistema medico.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets\msbuild.build.sistema medico.props
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.sistema medico.props
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.sistema medico.props
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.dll
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\refint\sistema medico.dll
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.pdb
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\sistema medico.genruntimeconfig.cache
+C:\Users\tarde.cetafest\Documents\atividade 2704\sistema medico\sistema medico\obj\Debug\net9.0\ref\sistema medico.dll
